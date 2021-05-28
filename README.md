@@ -13,4 +13,4 @@ Un científico de datos debe graficar estos datos en una gráfica lineal en el l
 En esta ocacion desarrollare la solucion a este problema por medio del lenueje de programacion python y mediante la libreria matplotlib
 con el fin de presentarlo como mi proyecto de aprendisaje en la asignatura de matematicas aplicadas
 
-Thnx UWU
+Thnx UWU y siganme :D
